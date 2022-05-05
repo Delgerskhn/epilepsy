@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "102761528779",
+    "project_id": "epilepsy-b452b",
+    "storage_bucket": "epilepsy-b452b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102761528779:android:084a4788cab352b7640a4e",
+        "android_client_info": {
+          "package_name": "com.example.patient_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102761528779-jg41ktvgp9p9bp6l0rr1788p1pvvuebk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.patient_tracker",
+            "certificate_hash": "88ca1fa54b520713fcfa548336f90efe5292182d"
+          }
+        },
+        {
+          "client_id": "102761528779-25hncv9ce51joe3ime2e53bfq8enop3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-VxUE-wnQoLK-52s3T6SeOf_SjnmyUa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102761528779-25hncv9ce51joe3ime2e53bfq8enop3v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "102761528779-8uro0d5a90acdpovpqv0dsn8moh0d507.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "epilepsy.a"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
